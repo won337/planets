@@ -2,4 +2,4 @@
 
 ## sub header
 
-* repository for software carpentry
+* repository for **software carpentry**
